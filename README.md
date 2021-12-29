@@ -1,4 +1,4 @@
-# LilCode
+# Lil code
 Small useful applications
 
 ## Threading python
